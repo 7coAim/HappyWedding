@@ -1,7 +1,7 @@
 ja:
   activerecord:
     models:
-      twtext: つぶやき
+      twtext: メッセージ
     attributes:
       twtext:
-        content: つぶやき内容
+        content: メッセージ内容
